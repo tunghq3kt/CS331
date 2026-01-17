@@ -42,4 +42,3 @@ Mục tiêu chính:
 ```bash
 git clone https://github.com/tunghq3kt/CS331.git
 
-cd mental-health-rag-chatbot
