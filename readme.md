@@ -40,5 +40,6 @@ Mục tiêu chính:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/yourusername/mental-health-rag-chatbot.git
+git clone https://github.com/tunghq3kt/CS331.git
+
 cd mental-health-rag-chatbot
